@@ -1,4 +1,4 @@
-# ![Animated Cat GIF](https://example.com/your-gif-url.gif) About Me:
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me:
 😎 I am a Full Stack Developer with a passion for Health Care<br>📫 Shoot me an Email (lili.farkas14@gmail.com) or add me on LinkedIn
 
 

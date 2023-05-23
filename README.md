@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me:
-😎 I am a Full Stack Developer with a passion for Health Care<br>📫 Shoot me an Email or add me on LinkedIn
+😎 I am a Full Stack Developer with a passion for Health Care<br>🔭 I’m currently working on Web Application projects<br>📫 Shoot me an Email or add me on LinkedIn
 
 
 ## 🌐 Socials:

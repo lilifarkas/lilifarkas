@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![Animated Cat GIF](https://example.com/your-gif-url.gif) About Me:
 😎 I am a Full Stack Developer with a passion for Health Care<br>📫 Shoot me an Email (lili.farkas14@gmail.com) or add me on LinkedIn
 
 
